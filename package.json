@@ -1,6 +1,6 @@
 {
   "name": "test-repo",
-  "version": "1.0.3",
+  "version": "1.1.2",
   "description": "test1",
   "main": "index.js",
   "scripts": {
